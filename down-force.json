@@ -1,0 +1,22 @@
+{
+    "version": "0.9.0-dev2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/canaria-computer/down-force/releases/download/v0.9.0-dev2.0/down-force_0.9.0-dev2.0_windows_amd64.zip",
+            "bin": [
+                "down-force.exe"
+            ],
+            "hash": "458547b106624ad4f17772d3d6d1e4430020586152c8e08afaeb14804ca73a9e"
+        },
+        "arm64": {
+            "url": "https://github.com/canaria-computer/down-force/releases/download/v0.9.0-dev2.0/down-force_0.9.0-dev2.0_windows_arm64.zip",
+            "bin": [
+                "down-force.exe"
+            ],
+            "hash": "914ecd02de9ebc719f50e7473e60425c36785df5b43bc66c32e73e56107c9a91"
+        }
+    },
+    "homepage": "https://github.com/canaria-computer/down-force",
+    "license": "PolyForm-Strict-1.0.0 | PolyForm-Internal-Use-1.0.0",
+    "description": "Evidence collection CLI application for phishing and illegal copyright infringement websites"
+}
