@@ -1,19 +1,19 @@
 {
-    "version": "0.21.0-dev1.0",
+    "version": "0.22.0-dev1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/canaria-computer/down-force/releases/download/v0.21.0-dev1.0/down-force_0.21.0-dev1.0_windows_amd64.zip",
+            "url": "https://github.com/canaria-computer/down-force/releases/download/v0.22.0-dev1.0/down-force_0.22.0-dev1.0_windows_amd64.zip",
             "bin": [
                 "down-force.exe"
             ],
-            "hash": "9f78c3abd282259d711c7750c2916e15979682c559b5579a7924396f7cbaf231"
+            "hash": "488573b8b0fa6202e6a13e24453e1d1d77b527def65815cff470d4b98184f27b"
         },
         "arm64": {
-            "url": "https://github.com/canaria-computer/down-force/releases/download/v0.21.0-dev1.0/down-force_0.21.0-dev1.0_windows_arm64.zip",
+            "url": "https://github.com/canaria-computer/down-force/releases/download/v0.22.0-dev1.0/down-force_0.22.0-dev1.0_windows_arm64.zip",
             "bin": [
                 "down-force.exe"
             ],
-            "hash": "9447e73672efaa4e969f6d5182cfca50376476eff80d4f8e2896613644164106"
+            "hash": "8e1fffac9590199d53d492dc9c61d6b37e4529f6b9c41027ffed4efa94f7d3ac"
         }
     },
     "homepage": "https://github.com/canaria-computer/down-force",
