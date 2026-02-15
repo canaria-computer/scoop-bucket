@@ -1,0 +1,14 @@
+{
+    "version": "0.4.0-dev1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/canaria-computer/m3bridge/releases/download/v0.4.0-dev1.0/m3bridge_Windows_x86_64.zip",
+            "bin": [
+                "m3bridge.exe"
+            ],
+            "hash": "3db63b255b063da2607b5db24cd4919ac4bad4f6b1a7e5bd63c4f66cb4470d38"
+        }
+    },
+    "homepage": "https://github.com/canaria-computer/m3bridge",
+    "license": "MIT LICENSE"
+}
