@@ -1,12 +1,12 @@
 {
-    "version": "0.3.0-dev1.0",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/canaria-computer/m3bridge/releases/download/v0.3.0-dev1.0/m3bridge_Windows_x86_64.zip",
+            "url": "https://github.com/canaria-computer/m3bridge/releases/download/v0.1.0/m3bridge_Windows_x86_64.zip",
             "bin": [
                 "m3bridge.exe"
             ],
-            "hash": "2c94556c8f5f6dc6571851a26e7303bdbf48ecf9227e5f60e063eecf9fb97d9b"
+            "hash": "34ec280dc22bb9a98be1be7b945d67f453f9c36086ea846163ef50e79b51431d"
         }
     },
     "homepage": "https://github.com/canaria-computer/m3bridge",
