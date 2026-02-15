@@ -1,22 +1,14 @@
 {
-    "version": "1.6.0",
+    "version": "0.3.0-dev1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/canaria-computer/down-force/releases/download/v1.6.0/down-force_1.6.0_windows_amd64.zip",
+            "url": "https://github.com/canaria-computer/m3bridge/releases/download/v0.3.0-dev1.0/m3bridge_Windows_x86_64.zip",
             "bin": [
-                "down-force.exe"
+                "m3bridge.exe"
             ],
-            "hash": "d8774a04bc8ed23888a5c6fb315529512d94ce01002e45d4df7965dde59eb410"
-        },
-        "arm64": {
-            "url": "https://github.com/canaria-computer/down-force/releases/download/v1.6.0/down-force_1.6.0_windows_arm64.zip",
-            "bin": [
-                "down-force.exe"
-            ],
-            "hash": "ad06e399bb0c2ce3356836b61d2cfd4e3d62983d19a74283475265bfdeb89f4f"
+            "hash": "2c94556c8f5f6dc6571851a26e7303bdbf48ecf9227e5f60e063eecf9fb97d9b"
         }
     },
-    "homepage": "https://github.com/canaria-computer/down-force",
-    "license": "PolyForm-Strict-1.0.0 | PolyForm-Internal-Use-1.0.0",
-    "description": "Evidence collection CLI application for phishing and illegal copyright infringement websites"
+    "homepage": "https://github.com/canaria-computer/m3bridge",
+    "license": "MIT LICENSE"
 }
